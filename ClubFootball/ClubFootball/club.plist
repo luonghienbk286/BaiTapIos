@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>clubname</key>
+		<string>Manchester Utd</string>
+		<key>ranking</key>
+		<integer>1</integer>
+		<key>icon</key>
+		<string>manu.png</string>
+		<key>numOfMatch</key>
+		<integer>32</integer>
+		<key>win</key>
+		<integer>26</integer>
+		<key>draw</key>
+		<integer>2</integer>
+		<key>loss</key>
+		<integer>4</integer>
+		<key>sobanthang</key>
+		<integer>73</integer>
+		<key>sobanthua</key>
+		<integer>33</integer>
+		<key>cauthu</key>
+		<array>
+			<dict>
+				<key>namePlayer</key>
+				<string>Robin Van Persie</string>
+				<key>sotranchoi</key>
+				<integer>28</integer>
+				<key>sobanghi</key>
+				<integer>20</integer>
+				<key>yellowcard</key>
+				<integer>2</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Tiền Đạo</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>Wayne Rooney</string>
+				<key>sotranchoi</key>
+				<integer>15</integer>
+				<key>sobanghi</key>
+				<integer>10</integer>
+				<key>yellowcard</key>
+				<integer>2</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Tiền Vệ Tấn Công</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>Michael Carrick</string>
+				<key>sotranchoi</key>
+				<integer>31</integer>
+				<key>sobanghi</key>
+				<integer>3</integer>
+				<key>yellowcard</key>
+				<integer>3</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Tiền Vệ Phòng Ngự</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>Phil Jones</string>
+				<key>sotranchoi</key>
+				<integer>25</integer>
+				<key>sobanghi</key>
+				<integer>3</integer>
+				<key>yellowcard</key>
+				<integer>1</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Tiền Vệ Trung Tâm</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>David De Gea</string>
+				<key>sotranchoi</key>
+				<integer>27</integer>
+				<key>sobanghi</key>
+				<integer>0</integer>
+				<key>yellowcard</key>
+				<integer>0</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Thủ Môn</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>clubname</key>
+		<string>Manchester City</string>
+		<key>ranking</key>
+		<integer>2</integer>
+		<key>icon</key>
+		<string>manc</string>
+		<key>numOfMatch</key>
+		<integer>32</integer>
+		<key>win</key>
+		<integer>20</integer>
+		<key>draw</key>
+		<integer>8</integer>
+		<key>loss</key>
+		<integer>4</integer>
+		<key>sobanthang</key>
+		<integer>57</integer>
+		<key>sobanthua</key>
+		<integer>27</integer>
+		<key>cauthu</key>
+		<array>
+			<dict>
+				<key>namePlayer</key>
+				<string>Kun Aguero</string>
+				<key>sotranchoi</key>
+				<integer>20</integer>
+				<key>sobanghi</key>
+				<integer>9</integer>
+				<key>yellowcard</key>
+				<integer>3</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Tiền Đạo</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>Yaya Toure</string>
+				<key>sotranchoi</key>
+				<integer>27</integer>
+				<key>sobanghi</key>
+				<integer>3</integer>
+				<key>yellowcard</key>
+				<integer>2</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Tiền Vệ Trung Tâm</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>Calos Tevez</string>
+				<key>sotranchoi</key>
+				<integer>20</integer>
+				<key>sobanghi</key>
+				<integer>7</integer>
+				<key>yellowcard</key>
+				<integer>1</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Tiền Đạo</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>Vicent Kompany</string>
+				<key>sotranchoi</key>
+				<integer>29</integer>
+				<key>sobanghi</key>
+				<integer>1</integer>
+				<key>yellowcard</key>
+				<integer>1</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Trung Vệ</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>Joe Hart</string>
+				<key>sotranchoi</key>
+				<integer>32</integer>
+				<key>sobanghi</key>
+				<integer>0</integer>
+				<key>yellowcard</key>
+				<integer>0</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Thủ Môn</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>clubname</key>
+		<string>Arsenal</string>
+		<key>ranking</key>
+		<integer>3</integer>
+		<key>icon</key>
+		<string>ars</string>
+		<key>numOfMatch</key>
+		<integer>32</integer>
+		<key>win</key>
+		<integer>17</integer>
+		<key>draw</key>
+		<integer>8</integer>
+		<key>loss</key>
+		<integer>7</integer>
+		<key>sobanthang</key>
+		<integer>64</integer>
+		<key>sobanthua</key>
+		<integer>35</integer>
+		<key>cauthu</key>
+		<array>
+			<dict>
+				<key>namePlayer</key>
+				<string>Theo Walcott</string>
+				<key>sotranchoi</key>
+				<integer>20</integer>
+				<key>sobanghi</key>
+				<integer>11</integer>
+				<key>yellowcard</key>
+				<integer>1</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Tiền Đạo</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>Wilshere</string>
+				<key>sotranchoi</key>
+				<integer>27</integer>
+				<key>sobanghi</key>
+				<integer>6</integer>
+				<key>yellowcard</key>
+				<integer>0</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Tiền Vệ Tấn Công</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>Arteta</string>
+				<key>sotranchoi</key>
+				<integer>24</integer>
+				<key>sobanghi</key>
+				<integer>4</integer>
+				<key>yellowcard</key>
+				<integer>1</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Tiền Vệ Đánh Chặn</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>Vicent Kompany</string>
+				<key>sotranchoi</key>
+				<integer>29</integer>
+				<key>sobanghi</key>
+				<integer>1</integer>
+				<key>yellowcard</key>
+				<integer>1</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Trung Vệ</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>Cazorla</string>
+				<key>sotranchoi</key>
+				<integer>32</integer>
+				<key>sobanghi</key>
+				<integer>5</integer>
+				<key>yellowcard</key>
+				<integer>0</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Tiền Vệ Trung Tâm</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>clubname</key>
+		<string>Chelsea</string>
+		<key>ranking</key>
+		<integer>4</integer>
+		<key>icon</key>
+		<string>chel</string>
+		<key>numOfMatch</key>
+		<integer>31</integer>
+		<key>win</key>
+		<integer>17</integer>
+		<key>draw</key>
+		<integer>7</integer>
+		<key>loss</key>
+		<integer>7</integer>
+		<key>sobanthang</key>
+		<integer>61</integer>
+		<key>sobanthua</key>
+		<integer>33</integer>
+		<key>cauthu</key>
+		<array>
+			<dict>
+				<key>namePlayer</key>
+				<string>Demba Ba</string>
+				<key>sotranchoi</key>
+				<integer>17</integer>
+				<key>sobanghi</key>
+				<integer>4</integer>
+				<key>yellowcard</key>
+				<integer>1</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Tiền Đạo</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>David Luiz</string>
+				<key>sotranchoi</key>
+				<integer>27</integer>
+				<key>sobanghi</key>
+				<integer>3</integer>
+				<key>yellowcard</key>
+				<integer>2</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Tiền Vệ Đánh Chặn</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>Hazard</string>
+				<key>sotranchoi</key>
+				<integer>29</integer>
+				<key>sobanghi</key>
+				<integer>8</integer>
+				<key>yellowcard</key>
+				<integer>1</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Tiền Vệ</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>Oscar</string>
+				<key>sotranchoi</key>
+				<integer>28</integer>
+				<key>sobanghi</key>
+				<integer>6</integer>
+				<key>yellowcard</key>
+				<integer>3</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Tiền Vệ</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>Peter Cech</string>
+				<key>sotranchoi</key>
+				<integer>32</integer>
+				<key>sobanghi</key>
+				<integer>0</integer>
+				<key>yellowcard</key>
+				<integer>0</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Thủ Môn</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>clubname</key>
+		<string>Tottenham</string>
+		<key>ranking</key>
+		<integer>5</integer>
+		<key>icon</key>
+		<string>tot</string>
+		<key>numOfMatch</key>
+		<integer>32</integer>
+		<key>win</key>
+		<integer>17</integer>
+		<key>draw</key>
+		<integer>7</integer>
+		<key>loss</key>
+		<integer>8</integer>
+		<key>sobanthang</key>
+		<integer>55</integer>
+		<key>sobanthua</key>
+		<integer>40</integer>
+		<key>cauthu</key>
+		<array>
+			<dict>
+				<key>namePlayer</key>
+				<string>Gareth Bale</string>
+				<key>sotranchoi</key>
+				<integer>30</integer>
+				<key>sobanghi</key>
+				<integer>20</integer>
+				<key>yellowcard</key>
+				<integer>1</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Tiền Vệ</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>Adebayor</string>
+				<key>sotranchoi</key>
+				<integer>15</integer>
+				<key>sobanghi</key>
+				<integer>8</integer>
+				<key>yellowcard</key>
+				<integer>2</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Tiền Đạo</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>Defoe</string>
+				<key>sotranchoi</key>
+				<integer>29</integer>
+				<key>sobanghi</key>
+				<integer>12</integer>
+				<key>yellowcard</key>
+				<integer>1</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Tiền Đạo</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>Jan Vertonghen</string>
+				<key>sotranchoi</key>
+				<integer>30</integer>
+				<key>sobanghi</key>
+				<integer>6</integer>
+				<key>yellowcard</key>
+				<integer>1</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Hậu Vệ Cánh</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>Hugo Lloris</string>
+				<key>sotranchoi</key>
+				<integer>29</integer>
+				<key>sobanghi</key>
+				<integer>0</integer>
+				<key>yellowcard</key>
+				<integer>0</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Thủ Môn</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>New item</key>
+		<string></string>
+		<key>clubname</key>
+		<string>Everton</string>
+		<key>ranking</key>
+		<integer>6</integer>
+		<key>icon</key>
+		<string>ever</string>
+		<key>numOfMatch</key>
+		<integer>32</integer>
+		<key>win</key>
+		<integer>13</integer>
+		<key>draw</key>
+		<integer>14</integer>
+		<key>loss</key>
+		<integer>5</integer>
+		<key>sobanthang</key>
+		<integer>51</integer>
+		<key>sobanthua</key>
+		<integer>37</integer>
+		<key>cauthu</key>
+		<array>
+			<dict>
+				<key>namePlayer</key>
+				<string>Baines</string>
+				<key>sotranchoi</key>
+				<integer>30</integer>
+				<key>sobanghi</key>
+				<integer>7</integer>
+				<key>yellowcard</key>
+				<integer>1</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Hậu Vệ Cánh</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>Gibson</string>
+				<key>sotranchoi</key>
+				<integer>29</integer>
+				<key>sobanghi</key>
+				<integer>2</integer>
+				<key>yellowcard</key>
+				<integer>2</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Trung Vệ</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>Fellaini</string>
+				<key>sotranchoi</key>
+				<integer>29</integer>
+				<key>sobanghi</key>
+				<integer>7</integer>
+				<key>yellowcard</key>
+				<integer>1</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Tiền Vệ</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>Anichebe</string>
+				<key>sotranchoi</key>
+				<integer>30</integer>
+				<key>sobanghi</key>
+				<integer>10</integer>
+				<key>yellowcard</key>
+				<integer>1</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Tiền Đạo</string>
+			</dict>
+			<dict>
+				<key>namePlayer</key>
+				<string>Howard</string>
+				<key>sotranchoi</key>
+				<integer>29</integer>
+				<key>sobanghi</key>
+				<integer>0</integer>
+				<key>yellowcard</key>
+				<integer>0</integer>
+				<key>redcard</key>
+				<integer>0</integer>
+				<key>vitri</key>
+				<string>Thủ Môn</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
